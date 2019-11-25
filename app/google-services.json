@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "673675695805",
+    "firebase_url": "https://facebookauth-ec9ea.firebaseio.com",
+    "project_id": "facebookauth-ec9ea",
+    "storage_bucket": "facebookauth-ec9ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673675695805:android:ba7b59b10f96cfaf8ec9d4",
+        "android_client_info": {
+          "package_name": "com.cyberwith.facebookauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673675695805-qmqloeg968ccepchsrjmve50jbe4ilf4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cyberwith.facebookauth",
+            "certificate_hash": "9d10789d8604806ddff133ac9de0d241387fea3e"
+          }
+        },
+        {
+          "client_id": "673675695805-nf1loc3k41rst7082kubi6mlbnj68nu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoTUd4gBIh9rtMXKMIZUJWiyiQlwKCO68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673675695805-nf1loc3k41rst7082kubi6mlbnj68nu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
